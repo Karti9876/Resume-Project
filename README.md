@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karti9876
-- 👀 I’m interested in app developement
+- 👀 I’m interested in app and web developement
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
